@@ -1,0 +1,9 @@
+npm install express mongoose bcryptjs jsonwebtoken multer dotenv
+npm install --save-dev nodemon
+npm install cors
+npm install express-validator
+
+для файла .env
+MONGO_URL=mongodb+srv://ameliyagrei22:Cv1MuOrFrMhYJZZ1@cluster0.rhbpj.mongodb.net/travel-journal?retryWrites=true&w=majority
+JWT_SECRET=jwt_secret
+PORT=5000
